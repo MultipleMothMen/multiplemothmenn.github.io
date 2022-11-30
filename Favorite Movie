@@ -1,0 +1,50 @@
+<table> <style>table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+};}</style>
+  <tr>
+    <th>Only The Very Best Movie For You</th>
+  </tr>
+
+  <tr>
+    <td>Title of the movie</td>
+    <td>Mary and Max</td>
+  </tr>
+
+    <tr>
+    <td>Director</td>
+    <td>Adam Elliot</td>
+  </tr>
+
+    <tr>
+    <td>Lead Voice Actor</td>
+    <td>Philip Seymour Hoffman</td>
+  </tr>
+  <tr>
+
+  <tr>
+    <td>Rating</td>
+    <td>This movie has yet to gain a rating</td>
+  </tr>
+  <tr>
+
+  <tr>
+    <td>A brief description of the movie</td>
+    <td>Spanning 20 years and two continents, Mary and Max recounts the pen-pal relationship between two very different people: Mary Dinkle, a chubby, lonely eight-year-old living in the suburbs of Melbourne, Australia; and Max Horovitz, a severely obese, 44-year-old Jewish man with Asperger's syndrome living in the chaos of New York City.</td>
+  </tr>
+  <tr>
+
+ <tr>
+    <td>A review on the movie</td>
+    <td>https://cine-vue.com/2010/10/film-review-mary-and-max.html</td>
+  </tr>
+  <tr>
+
+</table>
+
+
+
+
+<br>
+
+ <a href="index.html"> Back to Hub</a> 
