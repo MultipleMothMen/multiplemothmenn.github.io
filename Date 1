@@ -1,0 +1,17 @@
+<form>
+  <label for="fname"><b> Email (Required) </b>:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+ <label for="fname"><b> Birthdate (Required) </b>:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+ <label for="fname"><b> Current Date (Required) </b>:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <br>
+
+<br>
+
+</form>
+<br><br>
+Operator's Email: MothMenMany@gmail.com
+<br><br><br>
+
+ <a href="index.html"> Back to Hub</a> 
